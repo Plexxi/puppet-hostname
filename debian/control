@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 Homepage: https://github.com/Plexxi/puppet-hostname
 
 Package: puppet-module-plexxi-hostname
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends},
          px-utils,
          puppet-common (>= 2.7.20),
