@@ -1,0 +1,14 @@
+{
+  "name": "plexxi-hostname",
+  "version": "1.0.0",
+  "author": "plexxi",
+  "summary": "Puppet module for persistent changes to system hostname.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/Plexxi/puppet-hostname",
+  "project_page": "https://github.com/Plexxi/puppet-hostname",
+  "issues_url": "https://github.com/Plexxi/puppet-hostname/issues",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+

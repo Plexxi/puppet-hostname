@@ -1,0 +1,4 @@
+manifests usr/share/puppet/modules.available/plexxi-hostname
+metadata.json usr/share/puppet/modules.available/plexxi-hostname
+spec usr/share/puppet/modules.available/plexxi-hostname
+tests usr/share/puppet/modules.available/plexxi-hostname

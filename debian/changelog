@@ -1,0 +1,5 @@
+puppet-module-plexxi-hostname (1.0.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Joe Lorenz <joe.lorenz@plexxi.com>  Tue, 01 Nov 2016 10:16:17 -0400
