@@ -1,6 +1,6 @@
 {
   "name": "plexxi-hostname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "plexxi",
   "summary": "Puppet module for persistent changes to system hostname.",
   "license": "Apache 2.0",
